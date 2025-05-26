@@ -1,0 +1,15 @@
+# ignore additional files
+*.Rproj
+*.Rhistory
+*.RData
+*.DS_Store
+*.Rproj.user/
+*.zip
+*.gz
+NGS/.quarto/
+NGS/IntroGR/GSE174810/
+NGS/IntroGR/results/
+NGS/ChIP-seq_analysis/Mar24/
+NGS/ChIP-seq_analysis/results/
+NGS/PBMC3k/filtered_gene_bc_matrices/
+NGS/PBMC3k/pbmc_tutorial.rds
