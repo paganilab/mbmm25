@@ -6,10 +6,10 @@
 *.Rproj.user/
 *.zip
 *.gz
-NGS/.quarto/
-NGS/IntroGR/GSE174810/
-NGS/IntroGR/results/
-NGS/ChIP-seq_analysis/Mar24/
-NGS/ChIP-seq_analysis/results/
-NGS/PBMC3k/filtered_gene_bc_matrices/
-NGS/PBMC3k/pbmc_tutorial.rds
+/.quarto/
+/IntroGR/GSE174810/
+/IntroGR/results/
+/ChIP-seq_analysis/Mar24/
+/ChIP-seq_analysis/results/
+/PBMC3k/filtered_gene_bc_matrices/
+/PBMC3k/pages/pbmc_tutorial.rds
